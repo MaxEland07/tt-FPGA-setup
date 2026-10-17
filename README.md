@@ -5,7 +5,7 @@ One command takes a GitHub repo (or a local project folder), builds it for the T
 ## Setup (once per computer)
 
 ```bash
-git clone https://github.com/<you>/<this-repo>.git tt-fpga
+git clone https://github.com/MaxEland07/tt-FPGA-setup.git tt-fpga
 cd tt-fpga
 ```
 
