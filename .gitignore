@@ -1,0 +1,15 @@
+# created by setup.py
+.venv/
+.oss-cad-suite/
+.cache/
+
+# cloned and built by ttfpga.py
+projects/
+build/
+
+__pycache__/
+*.pyc
+
+# older local copies from before the repo was made portable (setup.py clones what it needs)
+/tools/
+/factory_test/
